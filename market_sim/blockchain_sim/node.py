@@ -1,4 +1,4 @@
-from blockchain import Blockchain
+from .blockchain import Blockchain
 
 
 class Node:
